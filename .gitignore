@@ -5,10 +5,3 @@ LipForensics/data/datasets/FakeCelebDF/
 LipForensics/data/datasets/RealCelebDF/
 LipForensics/models/weights/
 
-preprocessing_dataset/frames/Celeb-DF/Celeb-real/
-preprocessing_dataset/frames/Celeb-DF/Celeb-synthesis/
-preprocessing_dataset/landmarks/Celeb-DF/Celeb-real/
-preprocessing_dataset/landmarks/Celeb-DF/Celeb-synthesis/
-# preprocessing_dataset/raw/Celeb-DF/Celeb-real/
-# preprocessing_dataset/raw/Celeb-DF/Celeb-synthesis/
-

@@ -13,3 +13,8 @@ py preprocessing/crop_mouths.py --dataset CelebDF
 
 evaluate model
 py evaluate.py --dataset CelebDF --weights_forgery ./models/weights/lipforensics_ff.pth
+
+###
+
+run new model
+py train.py --dataset --weights
